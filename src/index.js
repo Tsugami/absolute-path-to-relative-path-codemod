@@ -1,4 +1,4 @@
 import { bar } from "src/bar/bar";
-import {} from "foo";
+import { foo } from "src/foo";
 
 console.log(bar, foo);
